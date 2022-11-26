@@ -1,0 +1,18 @@
+{
+	"friendList": {
+		"friend": [
+			{
+				"name": "Kelvin"
+			},
+			{
+				"name": "Klerry"
+			},
+			{
+				"name": "Techy"
+			}
+		],
+		"bestFriend": {
+			"name": "Zotac"
+		}
+	}
+}
